@@ -1,0 +1,39 @@
+h1{
+    color:darkslategray; 
+    /* text-align: center; */
+}
+
+img{
+    width: 400px;
+    height: 300px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color:goldenrod;
+    padding: 50px;
+    border: 5px solid darkslategray;
+    /* margin: 0 auto; */
+    
+}
+#spanId{
+    
+    font-size: 18px;
+    margin: 50px;
+}
+.divClass{
+    text-align: center;    
+}
+.rest{
+    text-transform: uppercase;
+    
+}
+body{
+    display: flex;
+    flex-direction: row;
+	flex-wrap: wrap;
+    justify-content: center;
+    background-image: url(https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);     
+    background-attachment: fixed;
+    background-size: cover;
+}
