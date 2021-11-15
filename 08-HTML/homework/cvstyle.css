@@ -1,0 +1,23 @@
+#columnas{
+    column-count:2;
+    column-gap:20px;
+    column-rule:4px double black;
+    list-style: none;
+ }
+ .perfil{
+   position: relative;
+   left: 200px;
+   border: solid black 2px;
+ }
+ body{
+     background-image: url(https://images.pexels.com/photos/3611882/pexels-photo-3611882.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500);
+
+     display: flex;
+    flex-direction: row;
+	flex-wrap: wrap;
+    justify-content: center;    
+    background-attachment: fixed;
+    background-size: cover;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+ }
