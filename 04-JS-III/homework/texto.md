@@ -1,0 +1,1 @@
+array --->  Los array son contenedores de datos en forma de matriz, que nos permite navegar en ellos en busca de los datos que necesitemos utilizar. El array nos da la posibilidad de agrupar dentro de una variable mucha cantidad de datos, siempre y cuando sean del mismo tipo (booleanos, strings, numeros).
